@@ -2,7 +2,7 @@
 
 ## 项目简介
 
-**TTS for MAS** 是一款专为《DDLC》游戏模组 **"Monika After Story"** (简称 MAS) 设计的语音合成子模组 (submod)。该模组为 MAS 添加了文本转语音功能，提升游戏体验。
+**TTS for MAS** 是为DDLC游戏模组 **"Monika After Story"** (简称 MAS) 设计的语音合成子模组 (submod)。该子模组为 MAS 添加了文本转语音功能。
 
 > **注意**：在使用本模组前，请确保您已成功安装 [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) 项目。
 
@@ -42,4 +42,4 @@
 
 ---
 
-*感谢您使用 TTS for MAS，祝您游戏愉快！ -Nullblock*
+*感谢使用 TTS for MAS，祝您游戏愉快！ -Nullblock*
